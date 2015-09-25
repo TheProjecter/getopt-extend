@@ -1,0 +1,1 @@
+Script uses Getopt::Long syntax for command-line options specification and allows to define a set of commonly-used options, and extend it with script-specific ones if required.
